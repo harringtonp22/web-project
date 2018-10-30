@@ -1,2 +1,2 @@
 # web-project
-<p>This is my first repository in the GitHub software.</p>
+<h1>This is my first repository in the GitHub software.</h1>
